@@ -1,0 +1,43 @@
+
+.product_img {
+    
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+
+
+
+nav {
+	text-align: right;
+}
+
+
+header {
+	text-align: center;
+	background-color: #DDD;
+	padding: 20px;
+	margin: 10px;
+}
+
+
+.column {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	float: left;
+	width: 26%;
+	margin-left: 3%;
+}
+
+
+.button {
+	border-radius: 15px;
+ 	height: 50px;
+ 	width: 75px;
+  	background-color: green;
+	color: black;
+	margin: 20px;
+}
+
